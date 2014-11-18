@@ -23,7 +23,7 @@
   <artifactId>XmlSchema</artifactId>
   <packaging>bundle</packaging>
   <name>XmlSchema</name>
-  <version>1.4.7-wso2v3</version>
+  <version>1.4.7-wso3v4-SNAPSHOT</version>
   <parent>
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
@@ -58,7 +58,7 @@
     <url>https://github.com/kasunbg/wso2-xmlschema.git</url>
     <developerConnection>scm:git:https://github.com/kasunbg/wso2-xmlschema.git</developerConnection>
     <connection>scm:git:https://github.com/kasunbg/wso2-xmlschema.git</connection>
-    <tag>XmlSchema-1.4.7-wso2v3</tag>
+    <tag>HEAD</tag>
   </scm>
   <organization>
     <name>The Apache Software Foundation</name>
